@@ -1,38 +1,6 @@
 # Glossar Wirtschaftsinformatik
 
-<style>
-body {
-    /* margin: 2em; */
-    /* color: #fff; */
-    /* background-color: #000; */
-}
-img {
-        max-height: 3em;
-        width: auto;
-        max-width: 70%;
-}
-
-/* override styles when printing */
-@media print {
-    body {
-        font-style: normal;
-        margin: 0;
-        color: #000;
-        background-color: #fff;
-    }
-    ul, p, aside, blockquote { font-size: 12pt; }
-    h3 { font-size: 14pt; }
-    h2 { font-size: 16pt; page-break-after: avoid; }
-    h1 { font-size: 18pt; }
-    h1:not(:first-child) { page-break-before: always; }
-    table { page-break-inside: avoid; }
-    img {
-        max-height: 8cm;
-        width: auto;
-    }
-    a[href]:after { display: none; }
-}
-</style>
+<link rel="stylesheet" media="print" href="print.css" />
 
 ## 3D Druck
 
@@ -41,7 +9,7 @@ Der Haupteinsatzbereich des 3D Druckverfahrens liegt in der individuellen Einzel
 
 Quelle (Definition): Vergleiche 3D Dinge Allgemein, 3D Druck & wie funktioniert es, online
 im Internet: <http://www.3ddinge.de/was-ist-3ddruck/> , zuletzt abgerufen: 11.11.2015
-Quelle (Definition \[Einsatzbereiche\]): Vergleiche 3D Druck Info, Einsatzgebiete von 3D-Druckern, online im Internet:<http://www.3-d-druck.info/einsatzgebiete/>, zuletzt abgerufen: 18.11.2015
+Quelle (Definition \[Einsatzbereiche\]): Vergleiche 3D Druck Info, Einsatzgebiete von 3D-Druckern, online im Internet: <http://www.3-d-druck.info/einsatzgebiete/>, zuletzt abgerufen: 18.11.2015
 
 ## Ablauforganisation
 
