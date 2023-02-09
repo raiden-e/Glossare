@@ -42,8 +42,7 @@ Source: Lernfragen
 
 ## Dilemma der Ablauforganisation
 
-Dilemma, wirtschaftliche Res
-sourcenauslastung vs. Minimierung von Durchlaufzeiten. (Kapazitätsauslastung vs. Durchlaufzeitminimierung)
+Dilemma, wirtschaftliche Ressourcenauslastung vs. Minimierung von Durchlaufzeiten. (Kapazitätsauslastung vs. Durchlaufzeitminimierung)
 
 ## Einsatzbedarf
 
@@ -133,11 +132,9 @@ Profit Centers sind organisatorische Teilbereiche mit einem eigenen (absoluten o
 Source: <https://de.wikipedia.org/wiki/Profitcenter>
 Zusammenfassung
 
-## Res
-sourcenpoolung
+## Ressourcenpoolung
 
-Günstige Res
-sourcennutzung, z. B. durch Vermeidung von mehrfachen Kapazitäten
+Günstige Ressourcennutzung, z. B. durch Vermeidung von mehrfachen Kapazitäten
 
 ## Situativer Ansatz
 
@@ -167,7 +164,7 @@ Aufgabe des Substitutionsprinzips der Organisation ist die Bestimmung des Optimu
 
 ![Substitutionsprinzip der Organisation](Personalmanagement%20und%20Organisation/Substitutionsprinzip.png)
 
-Das Substitutionsprinzip fordert dazu auf, fallweise durch generelle [Regelungen](http://www.wirtschaftslexikon24.com/d/regelung/regelung.htm) solange zu ersetzen, bis ein [Gleichgewicht](http://www.wirtschaftslexikon24.com/d/gleichgewicht/gleichgewicht.htm) zwischen Variabilität der betrieblichen Gegenstände und dem Ausmaß gebundener [Regelungen](http://www.wirtschaftslexikon24.com/d/regelung/regelung.htm) erreicht ist. Je mehr variable betriebliche Tatbestände vorfindbar sind, umso weniger kann die [Substitution](http://www.wirtschaftslexikon24.com/d/substitution/substitution.htm) fallweiser durch gene­relle [Regelungen](http://www.wirtschaftslexikon24.com/d/regelung/regelung.htm) erfolgen. Eine Überorganisation liegt demnach vor, wenn variable Tatbestände generell geregelt sind, eine Unterorganisation dagegen dann, wenn Wiederholungsvorgänge nicht generell geregelt sind.
+Das Substitutionsprinzip fordert dazu auf, fallweise durch generelle [Regelungen](http://www.wirtschaftslexikon24.com/d/regelung/regelung.htm), solange zu ersetzen, bis ein [Gleichgewicht](http://www.wirtschaftslexikon24.com/d/gleichgewicht/gleichgewicht.htm) zwischen Variabilität der betrieblichen Gegenstände und dem Ausmaß gebundener [Regelungen](http://www.wirtschaftslexikon24.com/d/regelung/regelung.htm) erreicht ist. Je mehr variable betriebliche Tatbestände vorfindbar sind, umso weniger kann die [Substitution](http://www.wirtschaftslexikon24.com/d/substitution/substitution.htm) fallweiser durch gene­relle [Regelungen](http://www.wirtschaftslexikon24.com/d/regelung/regelung.htm) erfolgen. Eine Überorganisation liegt demnach vor, wenn variable Tatbestände generell geregelt sind, eine Unterorganisation dagegen dann, wenn Wiederholungsvorgänge nicht generell geregelt sind.
 
 ## Vakanz
 
@@ -183,8 +180,7 @@ Source: Zusammenfassung
 
 ## Wertschöpfungskette
 
-In einer Wertschöpfungskette sind die Tätigkeiten in den einzelnen Produktionsstufen der Reihe nach geordnet dargestellt. Mittels dieser Tätigkeiten werden Werte geschaffen und Res
-sourcen verbraucht. Außerdem sind die Tätigkeit in Prozessen untereinander verbunden.
+In einer Wertschöpfungskette sind die Tätigkeiten in den einzelnen Produktionsstufen der Reihe nach geordnet dargestellt. Mittels dieser Tätigkeiten werden Werte geschaffen und Ressourcen verbraucht. Außerdem sind die Tätigkeit in Prozessen untereinander verbunden.
 
 Source: https://www.strategische-wettbewerbsbeobachtung.com/wp-content/uploads/2019/04/Wertsch%C3%B6pfungskette-1024x462.png
 
